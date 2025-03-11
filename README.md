@@ -34,14 +34,33 @@ Para ejecutar este programa necesitas:
 
 ## Ejemplo de Salida
 ```
-Promedio de temperaturas por ciudad y semana:
-Ciudad 1 - Semana 1: 22.5°C
-Ciudad 1 - Semana 2: 21.8°C
-Ciudad 2 - Semana 1: 25.3°C
-Ciudad 2 - Semana 2: 24.7°C
-Ciudad 3 - Semana 1: 25.3°C
-Ciudad 3 - Semana 2: 24.7°C
+Ciudades disponibles:
+1. Quito
+2. Guayaquil
+3. Cuenca
+Seleccione el número de la ciudad que desea ver: 1
 
+Temperaturas para Quito:
+  Semana 1:
+    Lunes: 25°C
+    Martes: 27°C
+    Miércoles: 22°C
+    Jueves: 30°C
+    Viernes: 28°C
+    Sábado: 26°C
+    Domingo: 24°C
+  Semana 2:
+    Lunes: 20°C
+    Martes: 22°C
+    Miércoles: 21°C
+    Jueves: 23°C
+    Viernes: 24°C
+    Sábado: 25°C
+    Domingo: 22°C
+
+Promedio de temperaturas para Quito:
+  Semana 1: 26.00°C
+  Semana 2: 22.43°C
 ...
 ```
 
